@@ -1,5 +1,4 @@
 # R : Query from Drill
-=================
 
 ## Dependencies
 - R package `RJDBC` -> allows R to connect to any DBMS that has a JDBC driver
